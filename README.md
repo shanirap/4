@@ -3,4 +3,4 @@ this is first commit
 this is 2 commit
 
 this is 4 commit-terminal
-this is 3 commit -github
+new conflict2- this is 3 commit -github
